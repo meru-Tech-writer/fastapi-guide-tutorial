@@ -1,16 +1,16 @@
-# 🚀 FastAPI Tutorial: 最速「Hello World」Docker構成
+# FastAPI Tutorial: 最速「Hello World」Docker構成
 
 本リポジトリは、note 記事 [【FastAPI Python 入門】2026年最新の使い方・ディレクトリ構成・JWT認証・AWS公開までを網羅した実務テンプレート](https://note.com/meru_tech/n/n3b974417e36b) で解説している最小構成のサンプルコードです。
 
 FastAPI の爆速な開発体験と、Docker によるクリーンな環境構築を 5 分で体感いただけます。
 
-## 📦 含まれているもの
+## 含まれているもの
 
 * `main.py`: シンプルな Hello World API エンドポイント
 * `Dockerfile`: 軽量な Python 3.12-slim 環境の設計図
 * `docker-compose.yml`: ホットリロード設定済みのコンテナ定義
 
-## 🚀 使い方 (Quick Start)
+## 使い方 (Quick Start)
 
 Docker がインストールされた環境で、以下の手順を実行してください。
 
@@ -31,7 +31,7 @@ docker compose up
 
 
 
-## 🛡️ 次のステップ：実務レベルの構築へ
+## 次のステップ：実務レベルの構築へ
 
 このリポジトリは、学習のスタート地点となる「最小構成」です 。
 
